@@ -4,3 +4,5 @@ matplotlib
 h5py
 jupyter
 notebook
+pycbc
+lal
